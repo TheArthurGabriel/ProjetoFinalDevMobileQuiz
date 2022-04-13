@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoFinalArthur</string>
+    <string name="etLogoSS">Logic Alarm</string>
+    <string name="btLogin">LOGIN</string>
+    <string name="btRegister">REGISTER</string>
+    <string name="etLogoT2">LOGIC ALARM</string>
+    <string name="a">__________________________</string>
+</resources>
